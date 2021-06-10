@@ -1,0 +1,21 @@
+{
+    "AddressBookDB": [{
+            "_fullName": "Abhishek",
+            "_address": "Om nagar",
+            "_phoneNumber": "8368915120",
+            "_city": "New Delhi",
+            "_state": "Delhi",
+            "_zip": "110044",
+            "id": 1
+        },
+        {
+            "_fullName": "Amit",
+            "_address": "Badarpur",
+            "_phoneNumber": "9876543210",
+            "_city": "Chandigarh",
+            "_state": "Haryana",
+            "_zip": "136123",
+            "id": 2
+        }
+    ]
+}
